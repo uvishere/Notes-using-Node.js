@@ -1,0 +1,5 @@
+#Ignore .gitignore itself
+.gitignore
+
+#Ignore node modules
+/node_modules
